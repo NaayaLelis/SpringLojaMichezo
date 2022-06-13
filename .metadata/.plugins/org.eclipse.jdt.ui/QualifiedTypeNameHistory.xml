@@ -8,4 +8,5 @@
     <fullyQualifiedTypeName name="java.math.BigDecimal"/>
     <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.generation.service.UsuarioService"/>
 </qualifiedTypeNameHistroy>

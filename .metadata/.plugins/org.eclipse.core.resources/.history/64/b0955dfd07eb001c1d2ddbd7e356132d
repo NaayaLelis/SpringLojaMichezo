@@ -1,0 +1,5 @@
+package com.generation.security;
+
+public class UserServiceDetailsImpl {
+
+}
